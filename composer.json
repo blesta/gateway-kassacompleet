@@ -1,6 +1,6 @@
 {
     "name": "blesta/kassacompleet",
-    "description": "Kassa Compleet Gateway Description",
+    "description": "Kassa Compleet Blesta integration for the Credit Card payment type",
     "license": "proprietary",
     "type": "blesta-gateway-nonmerchant",
     "require": {

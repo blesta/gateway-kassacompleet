@@ -4,12 +4,6 @@ require_once dirname(__FILE__) . DIRECTORY_SEPARATOR . 'kassacompleet_response.p
 /**
  * Kassa Compleet API.
  *
- * @package blesta
- * @subpackage blesta.components.modules.kassacompleet
- * @copyright Copyright (c) 2017, Phillips Data, Inc.
- * @license http://www.blesta.com/license/ The Blesta License Agreement
- * @link http://www.blesta.com/ Blesta
- *
  * Documentation at https://s3-eu-west-1.amazonaws.com/wl1-apidocs/api.kassacompleet.nl/index.html
  */
 class KassaCompleetApi

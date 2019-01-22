@@ -1,4 +1,4 @@
-# Kassa Compleet Gateway
+# Kassa Compleet (Credit/Debit) Gateway
 
 [![Build Status](https://travis-ci.org/blesta/gateway-kassacompleet.svg?branch=master)](https://travis-ci.org/blesta/gateway-kassacompleet) [![Coverage Status](https://coveralls.io/repos/github/blesta/gateway-kassacompleet/badge.svg?branch=master)](https://coveralls.io/github/blesta/gateway-kassacompleet?branch=master)
 
@@ -24,6 +24,6 @@ your Blesta installation path.
 3. Log in to your admin Blesta account and navigate to
 > Settings > Payment Gateways
 
-4. Find the Kassa Compleet gateway and click the "Install" button to install it
+4. Find the Credit/Debit Cards (Kassa Compleet) gateway and click the "Install" button to install it
 
 5. You're done!
