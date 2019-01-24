@@ -158,7 +158,7 @@ class Kassacompleet extends NonmerchantGateway
         // Load the models required
         Loader::loadModels($this, ['Clients']);
 
-        if (isset($_POST['submit_kassacompleet'])) {
+        if (!empty($_POST)) {
             // Load the Kassa Compleet API
             $api = $this->getApi($this->meta['api_key']);
 
