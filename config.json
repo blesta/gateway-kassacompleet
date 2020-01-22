@@ -1,7 +1,7 @@
 {
-	"version": "1.0.1",
+	"version": "1.1.0",
 	"name": "Kassacompleet.name",
-	"description": "Kassa Compleet integration for the Credit Card payment type",
+	"description": "Kassacompleet.description",
 	"authors": [
 		{
 			"name": "Phillips Data, Inc.",
